@@ -1,12 +1,7 @@
 
 # AI-ChatBot-Using-Python
 
-A desktop type chatbot which is a computer program designed to simulate conversation with human users
-
-# Chatbot
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/vaibhavr24/Smart-AI-Chat-Bot-Using-Python-Machine-Learning/blob/main/app.py)
-
+Explore the world of conversational AI with this Python-based AI chatbot. This repository contains a desktop chatbot program designed to simulate conversations with human users. Harness the power of PyTorch, NLTK, and more to create a smart and interactive chatbot.
 
 
 ## Required Library
